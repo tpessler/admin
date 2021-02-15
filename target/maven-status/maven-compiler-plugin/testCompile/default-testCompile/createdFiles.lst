@@ -1,0 +1,4 @@
+com\trueaccord\admin\service\impl\DataServiceTest.class
+com\trueaccord\admin\service\impl\DebtServiceTest.class
+com\trueaccord\admin\AdminApplicationTests.class
+com\trueaccord\admin\controller\MainControllerTest.class
